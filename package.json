@@ -2,7 +2,7 @@
   "name": "studlycaps",
 	"displayName": "stUdlycAps",
 	"description": "Transforms text to alternating or \"studly\" caps",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"publisher": "afoster",
 	"repository": "https://github.com/afoster/vscode-studlycaps",
 	"engines": {

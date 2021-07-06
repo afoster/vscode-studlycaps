@@ -2,11 +2,17 @@
 
 Transforms selected text to alternating or "studly" caps in one of three modes:
 
-  * Regular alternating caps
-  * Uppercase consonents, lowercase vowels
-  * Lowercase consonents, uppercase vowels
+  * Regular alternating caps (`rEgUlAr aLtErNaTiNg cApS`)
+  * Uppercase consonents, lowercase vowels (`uPPeRCaSe CoNSoNeNTS, LoWeRCaSe VoWeLS`)
+  * Lowercase consonents, uppercase vowels (`lOwErcAsE cOnsOnEnts, UppErcAsE vOwEls`)
+
+All commands are prefixed with "stUdlycAps" in the command palette.
 
 ## changelog
+
+### [0.0.3] - 2021-07-06
+
+- Improve README
 
 ### [0.0.2] - 2021-07-06
 
