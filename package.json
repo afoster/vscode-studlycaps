@@ -1,8 +1,8 @@
 {
   "name": "studlycaps",
-	"displayName": "sTuDlYcApS",
+	"displayName": "stUdlycAps",
 	"description": "Transforms text to alternating or \"studly\" caps",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "afoster",
 	"repository": "https://github.com/afoster/vscode-studlycaps",
 	"engines": {
@@ -21,15 +21,15 @@
 		"commands": [
 			{
 				"command": "studlycaps.studlycaps",
-				"title": "sTuDlY cApS (alternating caps)"
+				"title": "stUdlycAps (alternating caps)"
 			},
 			{
 				"command": "studlycaps.capitalisedconsonants",
-				"title": "sTuDlY cApS (capitalised consonants)"
+				"title": "stUdlycAps (capitalised consonants)"
 			},
 			{
 				"command": "studlycaps.capitalisedvowels",
-				"title": "sTuDlY cApS (capitalised vowels)"
+				"title": "stUdlycAps (capitalised vowels)"
 			}
 		]
 	},
